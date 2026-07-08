@@ -1,10 +1,11 @@
-## Hi there, I'm Priyavarshini 👋
+## Hi there, I'm Priyavarshini👋
 
 ## 👩‍💻 About Me
 
-🎓 I'm a **2026 Computer Science and Engineering graduate** with a passion for building innovative and impactful software solutions.
-💡 I'm enthusiastic about **Web Development, Artificial Intelligence, Deep Learning, and Machine Learning**, and I enjoy transforming ideas into practical applications through technology.
-🌱 I'm constantly exploring new tools, frameworks, and emerging technologies while expanding my knowledge through hands-on projects and continuous learning.
+I'm a 2026 Computer Science and Engineering graduate with a strong interest in software development. 
+My primary interests include Web Development, Artificial Intelligence, and Machine Learning. 
+I enjoy building practical applications, learning modern technologies, and continuously improving as a developer.
+
 
 ## 🤝 Let's Collaborate
 
